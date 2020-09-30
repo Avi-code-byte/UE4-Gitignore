@@ -67,3 +67,5 @@ DerivedDataCache/*
 *.swo
 .ctrlp_cache/
 
+#verify
+verified/*
